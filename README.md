@@ -39,7 +39,8 @@ Step 4: Make Files Public
 ![Step 4](docs/Step4_MakePublic.png)
 
 Step 5: Final Website  
-![Step 5](docs/Step5_FinalWebsite)
+![Step 5](docs/Step5_FinalWebsite.png)
+
 
 ## Live Demo
 The website was successfully hosted on AWS S3, but it has been deleted to avoid AWS charges.
