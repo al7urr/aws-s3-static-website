@@ -36,7 +36,7 @@ Step 3: Enable Static Website Hosting
 ![Step 3](docs/Step3_EnableHosting.png)
 
 Step 4: Make Files Public  
-![Step 4](docs/Step4_MakePublic.png)
+![Step 4](aws-s3-static-website/docs/Step4_MakePublic.png)
 
 Step 5: Final Website  
 ![Step 5](docs/Step5_FinalWebsite.png)
