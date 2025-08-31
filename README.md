@@ -27,19 +27,19 @@ The goal was to create a public website while learning key AWS concepts.
 
 ## Screenshots
 Step 1: Create S3 Bucket  
-![Step 1](docs/Step1_CreateBucket.png)
+![Step 1](aws-s3-static-website/docs/Step1_CreateBucket.png)
 
 Step 2: Upload Files  
-![Step 2](docs/Step2_UploadFiles.png)
+![Step 2](aws-s3-static-website/docs/Step2_UploadFiles.png)
 
 Step 3: Enable Static Website Hosting  
-![Step 3](docs/Step3_EnableHosting.png)
+![Step 3](aws-s3-static-website/docs/Step3_EnableHosting.png)
 
 Step 4: Make Files Public  
 ![Step 4](aws-s3-static-website/docs/Step4_MakePublic.png)
 
 Step 5: Final Website  
-![Step 5](docs/Step5_FinalWebsite.png)
+![Step 5](aws-s3-static-website/docs/Step5_FinalWebsite.png)
 
 
 ## Live Demo
@@ -53,4 +53,4 @@ The most challenging part was resolving the 403 Forbidden error caused by privat
 The most rewarding part was seeing the website live on the internet, which made me happy because it demonstrated my skills in using AWS S3 and hosting a static website.
 
 ## Project PDF
-[Download PDF](docs/NextWork_S3_Project.pdf)
+[Download PDF](aws-s3-static-website/docs/NextWork_S3_Project.pdf)
